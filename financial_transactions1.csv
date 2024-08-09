@@ -1,0 +1,1001 @@
+TransactionID,Amount,Date,Category,TransactionType,Source
+1,2024.66,2023-01-01,Investment - Mutual Funds,Credit,Bank Account
+2,2515.75,2023-01-02,Utilities - Electricity,Debit,Bank Account
+3,1500.82,2023-01-03,Utilities,Credit,Credit Card
+4,4692.98,2023-01-04,Utilities - Electricity,Debit,Digital Wallet
+5,4304.72,2023-01-05,Dining,Credit,Digital Wallet
+6,608.43,2023-01-06,Loan - Credit Card,Credit,Credit Card
+7,1950.27,2023-01-07,Travel,Credit,Credit Card
+8,3491.24,2023-01-08,Investment - Mutual Funds,Credit,Digital Wallet
+9,4883.48,2023-01-09,Dining,Debit,Credit Card
+10,1326.98,2023-01-10,Savings - Bank,Debit,Digital Wallet
+11,1662.54,2023-01-11,Rent,Credit,Credit Card
+12,4125.0,2023-01-12,Investment - Mutual Funds,Debit,Bank Account
+13,1584.23,2023-01-13,Loan - Credit Card,Credit,Bank Account
+14,418.87,2023-01-14,Travel,Debit,Digital Wallet
+15,3087.43,2023-01-15,Utilities - Electricity,Credit,Bank Account
+16,1859.1,2023-01-16,Rent,Credit,Digital Wallet
+17,3026.51,2023-01-17,Savings - Bank,Debit,Bank Account
+18,938.3,2023-01-18,Travel,Debit,Digital Wallet
+19,3147.74,2023-01-19,Rent,Credit,Digital Wallet
+20,3372.17,2023-01-20,Rent,Credit,Digital Wallet
+21,760.69,2023-01-21,Investment - Mutual Funds,Debit,Digital Wallet
+22,2737.11,2023-01-22,Savings - Bank,Debit,Credit Card
+23,1462.7,2023-01-23,Utilities - Electricity,Credit,Digital Wallet
+24,1817.44,2023-01-24,Groceries,Debit,Bank Account
+25,4388.87,2023-01-25,Utilities - Electricity,Credit,Bank Account
+26,37.01,2023-01-26,Utilities - Electricity,Credit,Bank Account
+27,729.31,2023-01-27,Dining,Credit,Bank Account
+28,51.24,2023-01-28,Investment - Mutual Funds,Credit,Bank Account
+29,3804.7,2023-01-29,Investment - Mutual Funds,Credit,Digital Wallet
+30,2990.6,2023-01-30,Groceries,Credit,Bank Account
+31,483.17,2023-01-31,Utilities,Credit,Bank Account
+32,4724.86,2023-02-01,Savings - Bank,Debit,Digital Wallet
+33,4880.23,2023-02-02,Utilities,Credit,Bank Account
+34,377.99,2023-02-03,Dining,Debit,Bank Account
+35,3929.98,2023-02-04,Loan - Credit Card,Credit,Credit Card
+36,2206.03,2023-02-05,Savings - Bank,Credit,Bank Account
+37,1809.98,2023-02-06,Savings - Bank,Debit,Digital Wallet
+38,4614.71,2023-02-07,Groceries,Debit,Digital Wallet
+39,1280.86,2023-02-08,Travel,Debit,Bank Account
+40,3850.49,2023-02-09,Travel,Debit,Credit Card
+41,4289.5,2023-02-10,Utilities,Credit,Digital Wallet
+42,3211.44,2023-02-11,Dining,Credit,Digital Wallet
+43,3651.52,2023-02-12,Utilities - Electricity,Credit,Credit Card
+44,3059.38,2023-02-13,Utilities - Electricity,Credit,Bank Account
+45,2495.45,2023-02-14,Investment - Mutual Funds,Debit,Digital Wallet
+46,4565.66,2023-02-15,Groceries,Debit,Credit Card
+47,2168.6,2023-02-16,Rent,Debit,Credit Card
+48,2082.86,2023-02-17,Groceries,Credit,Credit Card
+49,2010.45,2023-02-18,Loan - Credit Card,Debit,Digital Wallet
+50,3564.34,2023-02-19,Savings - Bank,Debit,Bank Account
+51,1673.17,2023-02-20,Utilities - Electricity,Credit,Digital Wallet
+52,4134.62,2023-02-21,Groceries,Credit,Bank Account
+53,3728.28,2023-02-22,Travel,Credit,Credit Card
+54,3651.91,2023-02-23,Loan - Credit Card,Credit,Digital Wallet
+55,2341.23,2023-02-24,Dining,Debit,Bank Account
+56,2906.26,2023-02-25,Utilities - Electricity,Credit,Credit Card
+57,1206.68,2023-02-26,Investment - Mutual Funds,Credit,Digital Wallet
+58,4538.72,2023-02-27,Groceries,Credit,Bank Account
+59,3265.27,2023-02-28,Groceries,Debit,Credit Card
+60,376.31,2023-03-01,Investment - Mutual Funds,Debit,Credit Card
+61,3049.48,2023-03-02,Dining,Debit,Bank Account
+62,4028.49,2023-03-03,Dining,Debit,Credit Card
+63,4408.83,2023-03-04,Utilities - Electricity,Credit,Bank Account
+64,494.52,2023-03-05,Utilities - Electricity,Debit,Credit Card
+65,800.49,2023-03-06,Travel,Credit,Bank Account
+66,4208.02,2023-03-07,Investment - Mutual Funds,Credit,Credit Card
+67,4982.91,2023-03-08,Travel,Debit,Credit Card
+68,4620.11,2023-03-09,Utilities - Electricity,Debit,Credit Card
+69,4163.08,2023-03-10,Dining,Debit,Bank Account
+70,3193.16,2023-03-11,Groceries,Debit,Bank Account
+71,2767.75,2023-03-12,Loan - Credit Card,Credit,Digital Wallet
+72,4310.95,2023-03-13,Travel,Credit,Bank Account
+73,676.87,2023-03-14,Groceries,Credit,Digital Wallet
+74,4597.62,2023-03-15,Rent,Credit,Bank Account
+75,2272.9,2023-03-16,Loan - Credit Card,Credit,Bank Account
+76,2275.29,2023-03-17,Travel,Credit,Digital Wallet
+77,2334.84,2023-03-18,Utilities,Debit,Bank Account
+78,1504.36,2023-03-19,Investment - Mutual Funds,Credit,Credit Card
+79,3274.48,2023-03-20,Groceries,Credit,Bank Account
+80,2302.6,2023-03-21,Investment - Mutual Funds,Debit,Credit Card
+81,804.28,2023-03-22,Groceries,Debit,Digital Wallet
+82,789.21,2023-03-23,Savings - Bank,Credit,Digital Wallet
+83,1705.33,2023-03-24,Utilities - Electricity,Credit,Credit Card
+84,2343.7,2023-03-25,Loan - Credit Card,Credit,Bank Account
+85,38.45,2023-03-26,Utilities - Electricity,Debit,Digital Wallet
+86,1341.45,2023-03-27,Savings - Bank,Debit,Digital Wallet
+87,16.48,2023-03-28,Groceries,Credit,Digital Wallet
+88,4057.23,2023-03-29,Rent,Credit,Bank Account
+89,1010.39,2023-03-30,Rent,Credit,Digital Wallet
+90,2193.54,2023-03-31,Savings - Bank,Debit,Credit Card
+91,3775.78,2023-04-01,Utilities,Debit,Digital Wallet
+92,423.77,2023-04-02,Groceries,Credit,Bank Account
+93,352.43,2023-04-03,Rent,Credit,Credit Card
+94,3172.86,2023-04-04,Savings - Bank,Debit,Digital Wallet
+95,3607.45,2023-04-05,Investment - Mutual Funds,Debit,Credit Card
+96,3067.77,2023-04-06,Savings - Bank,Debit,Digital Wallet
+97,1738.13,2023-04-07,Utilities - Electricity,Credit,Bank Account
+98,436.71,2023-04-08,Rent,Credit,Credit Card
+99,3323.92,2023-04-09,Utilities,Credit,Bank Account
+100,1523.21,2023-04-10,Savings - Bank,Debit,Digital Wallet
+101,747.57,2023-04-11,Groceries,Credit,Credit Card
+102,1781.18,2023-04-12,Investment - Mutual Funds,Debit,Bank Account
+103,1170.72,2023-04-13,Loan - Credit Card,Credit,Bank Account
+104,2325.88,2023-04-14,Savings - Bank,Credit,Digital Wallet
+105,651.76,2023-04-15,Rent,Credit,Credit Card
+106,330.84,2023-04-16,Investment - Mutual Funds,Credit,Digital Wallet
+107,4825.01,2023-04-17,Utilities,Debit,Credit Card
+108,1786.3,2023-04-18,Investment - Mutual Funds,Credit,Credit Card
+109,1864.31,2023-04-19,Utilities,Debit,Digital Wallet
+110,3028.82,2023-04-20,Rent,Debit,Credit Card
+111,1867.18,2023-04-21,Utilities,Credit,Bank Account
+112,4603.86,2023-04-22,Investment - Mutual Funds,Debit,Credit Card
+113,1640.66,2023-04-23,Investment - Mutual Funds,Debit,Bank Account
+114,4967.18,2023-04-24,Loan - Credit Card,Debit,Digital Wallet
+115,3545.63,2023-04-25,Groceries,Debit,Bank Account
+116,1665.95,2023-04-26,Dining,Debit,Credit Card
+117,1164.0,2023-04-27,Savings - Bank,Credit,Credit Card
+118,1596.32,2023-04-28,Savings - Bank,Credit,Credit Card
+119,1696.53,2023-04-29,Investment - Mutual Funds,Credit,Bank Account
+120,577.84,2023-04-30,Travel,Debit,Digital Wallet
+121,1963.09,2023-05-01,Investment - Mutual Funds,Credit,Digital Wallet
+122,4212.61,2023-05-02,Investment - Mutual Funds,Credit,Credit Card
+123,4788.35,2023-05-03,Investment - Mutual Funds,Debit,Digital Wallet
+124,2512.83,2023-05-04,Utilities,Credit,Credit Card
+125,4608.62,2023-05-05,Loan - Credit Card,Debit,Credit Card
+126,3720.89,2023-05-06,Travel,Credit,Credit Card
+127,735.21,2023-05-07,Travel,Debit,Digital Wallet
+128,3356.98,2023-05-08,Groceries,Debit,Digital Wallet
+129,1687.88,2023-05-09,Savings - Bank,Debit,Bank Account
+130,4012.15,2023-05-10,Rent,Credit,Digital Wallet
+131,4444.53,2023-05-11,Utilities - Electricity,Credit,Digital Wallet
+132,2558.65,2023-05-12,Loan - Credit Card,Credit,Digital Wallet
+133,1719.26,2023-05-13,Loan - Credit Card,Credit,Credit Card
+134,2866.16,2023-05-14,Utilities - Electricity,Credit,Credit Card
+135,1821.31,2023-05-15,Groceries,Credit,Credit Card
+136,1817.52,2023-05-16,Travel,Credit,Bank Account
+137,2345.22,2023-05-17,Loan - Credit Card,Credit,Bank Account
+138,4797.26,2023-05-18,Loan - Credit Card,Credit,Credit Card
+139,869.05,2023-05-19,Savings - Bank,Debit,Credit Card
+140,4620.04,2023-05-20,Groceries,Debit,Credit Card
+141,3027.0,2023-05-21,Travel,Debit,Bank Account
+142,3755.61,2023-05-22,Groceries,Debit,Bank Account
+143,2917.26,2023-05-23,Savings - Bank,Debit,Digital Wallet
+144,1022.74,2023-05-24,Dining,Debit,Bank Account
+145,2145.7,2023-05-25,Investment - Mutual Funds,Credit,Digital Wallet
+146,311.13,2023-05-26,Utilities,Debit,Digital Wallet
+147,3608.67,2023-05-27,Dining,Debit,Digital Wallet
+148,2707.8,2023-05-28,Utilities - Electricity,Credit,Bank Account
+149,3467.14,2023-05-29,Rent,Debit,Credit Card
+150,4868.44,2023-05-30,Travel,Credit,Bank Account
+151,2101.31,2023-05-31,Utilities - Electricity,Debit,Credit Card
+152,2607.68,2023-06-01,Travel,Credit,Bank Account
+153,139.53,2023-06-02,Loan - Credit Card,Debit,Bank Account
+154,3304.83,2023-06-03,Dining,Credit,Digital Wallet
+155,1774.5,2023-06-04,Travel,Debit,Bank Account
+156,4950.82,2023-06-05,Utilities,Debit,Credit Card
+157,4127.66,2023-06-06,Investment - Mutual Funds,Credit,Digital Wallet
+158,3492.6,2023-06-07,Investment - Mutual Funds,Credit,Digital Wallet
+159,3387.55,2023-06-08,Utilities,Debit,Credit Card
+160,3679.55,2023-06-09,Loan - Credit Card,Credit,Bank Account
+161,3266.92,2023-06-10,Travel,Credit,Digital Wallet
+162,1190.02,2023-06-11,Utilities,Debit,Bank Account
+163,2137.82,2023-06-12,Loan - Credit Card,Credit,Digital Wallet
+164,3283.56,2023-06-13,Savings - Bank,Debit,Credit Card
+165,2508.65,2023-06-14,Groceries,Credit,Digital Wallet
+166,123.79,2023-06-15,Savings - Bank,Credit,Digital Wallet
+167,3016.49,2023-06-16,Savings - Bank,Debit,Digital Wallet
+168,4878.43,2023-06-17,Groceries,Debit,Digital Wallet
+169,107.4,2023-06-18,Loan - Credit Card,Debit,Digital Wallet
+170,1215.29,2023-06-19,Groceries,Debit,Credit Card
+171,1770.51,2023-06-20,Groceries,Debit,Credit Card
+172,723.49,2023-06-21,Utilities,Debit,Bank Account
+173,1121.02,2023-06-22,Dining,Credit,Credit Card
+174,326.72,2023-06-23,Travel,Debit,Bank Account
+175,1427.74,2023-06-24,Rent,Credit,Credit Card
+176,4492.0,2023-06-25,Investment - Mutual Funds,Debit,Credit Card
+177,4796.4,2023-06-26,Dining,Debit,Bank Account
+178,3929.15,2023-06-27,Savings - Bank,Debit,Credit Card
+179,3938.92,2023-06-28,Utilities,Credit,Digital Wallet
+180,2743.91,2023-06-29,Utilities,Debit,Bank Account
+181,2636.63,2023-06-30,Rent,Debit,Bank Account
+182,4811.49,2023-07-01,Utilities,Debit,Bank Account
+183,3716.42,2023-07-02,Dining,Credit,Bank Account
+184,3766.4,2023-07-03,Dining,Credit,Digital Wallet
+185,1242.79,2023-07-04,Dining,Credit,Credit Card
+186,4242.04,2023-07-05,Rent,Debit,Bank Account
+187,1050.14,2023-07-06,Rent,Credit,Digital Wallet
+188,560.71,2023-07-07,Utilities - Electricity,Debit,Digital Wallet
+189,3965.47,2023-07-08,Investment - Mutual Funds,Credit,Credit Card
+190,1210.14,2023-07-09,Dining,Debit,Digital Wallet
+191,2107.3,2023-07-10,Utilities,Debit,Credit Card
+192,1315.32,2023-07-11,Dining,Debit,Credit Card
+193,1068.58,2023-07-12,Dining,Credit,Credit Card
+194,4723.14,2023-07-13,Rent,Credit,Credit Card
+195,3291.64,2023-07-14,Loan - Credit Card,Credit,Credit Card
+196,2791.19,2023-07-15,Dining,Credit,Bank Account
+197,4642.75,2023-07-16,Utilities,Debit,Bank Account
+198,4212.47,2023-07-17,Rent,Debit,Bank Account
+199,2472.69,2023-07-18,Utilities - Electricity,Debit,Credit Card
+200,353.75,2023-07-19,Rent,Credit,Bank Account
+201,4922.37,2023-07-20,Groceries,Debit,Digital Wallet
+202,2683.47,2023-07-21,Dining,Debit,Digital Wallet
+203,4561.06,2023-07-22,Investment - Mutual Funds,Debit,Digital Wallet
+204,1446.49,2023-07-23,Utilities,Debit,Bank Account
+205,1249.65,2023-07-24,Travel,Credit,Digital Wallet
+206,1399.32,2023-07-25,Loan - Credit Card,Debit,Digital Wallet
+207,2328.08,2023-07-26,Investment - Mutual Funds,Debit,Credit Card
+208,1231.6,2023-07-27,Investment - Mutual Funds,Debit,Digital Wallet
+209,3297.06,2023-07-28,Utilities - Electricity,Credit,Digital Wallet
+210,1108.46,2023-07-29,Loan - Credit Card,Debit,Digital Wallet
+211,1028.36,2023-07-30,Utilities,Debit,Bank Account
+212,142.34,2023-07-31,Investment - Mutual Funds,Credit,Credit Card
+213,2907.96,2023-08-01,Travel,Credit,Bank Account
+214,101.11,2023-08-02,Rent,Debit,Digital Wallet
+215,2175.05,2023-08-03,Loan - Credit Card,Credit,Credit Card
+216,2218.26,2023-08-04,Groceries,Credit,Digital Wallet
+217,1706.78,2023-08-05,Travel,Credit,Bank Account
+218,3286.48,2023-08-06,Loan - Credit Card,Debit,Credit Card
+219,3012.73,2023-08-07,Dining,Debit,Digital Wallet
+220,1658.9,2023-08-08,Investment - Mutual Funds,Credit,Credit Card
+221,1307.8,2023-08-09,Travel,Credit,Bank Account
+222,2881.74,2023-08-10,Investment - Mutual Funds,Credit,Credit Card
+223,2851.41,2023-08-11,Utilities,Credit,Bank Account
+224,4585.28,2023-08-12,Savings - Bank,Debit,Credit Card
+225,3982.96,2023-08-13,Savings - Bank,Credit,Digital Wallet
+226,2761.96,2023-08-14,Travel,Debit,Digital Wallet
+227,3248.81,2023-08-15,Travel,Debit,Digital Wallet
+228,1608.63,2023-08-16,Rent,Credit,Credit Card
+229,1474.03,2023-08-17,Utilities - Electricity,Debit,Credit Card
+230,117.49,2023-08-18,Utilities - Electricity,Credit,Credit Card
+231,3834.14,2023-08-19,Savings - Bank,Credit,Digital Wallet
+232,187.66,2023-08-20,Groceries,Credit,Digital Wallet
+233,2058.18,2023-08-21,Utilities,Debit,Bank Account
+234,180.44,2023-08-22,Groceries,Debit,Digital Wallet
+235,3519.58,2023-08-23,Rent,Debit,Bank Account
+236,2951.47,2023-08-24,Savings - Bank,Credit,Credit Card
+237,4798.42,2023-08-25,Savings - Bank,Credit,Bank Account
+238,3633.62,2023-08-26,Investment - Mutual Funds,Debit,Bank Account
+239,3520.03,2023-08-27,Travel,Credit,Digital Wallet
+240,177.84,2023-08-28,Dining,Debit,Credit Card
+241,4740.99,2023-08-29,Investment - Mutual Funds,Debit,Bank Account
+242,2845.97,2023-08-30,Investment - Mutual Funds,Credit,Digital Wallet
+243,3736.66,2023-08-31,Loan - Credit Card,Debit,Credit Card
+244,2447.12,2023-09-01,Travel,Credit,Credit Card
+245,4856.19,2023-09-02,Rent,Debit,Digital Wallet
+246,3321.23,2023-09-03,Travel,Debit,Bank Account
+247,4031.78,2023-09-04,Groceries,Debit,Credit Card
+248,3017.63,2023-09-05,Groceries,Debit,Bank Account
+249,2533.61,2023-09-06,Dining,Debit,Bank Account
+250,2355.58,2023-09-07,Loan - Credit Card,Credit,Credit Card
+251,1493.12,2023-09-08,Groceries,Credit,Bank Account
+252,1645.01,2023-09-09,Utilities - Electricity,Debit,Bank Account
+253,534.35,2023-09-10,Groceries,Debit,Credit Card
+254,485.15,2023-09-11,Utilities,Credit,Digital Wallet
+255,1855.44,2023-09-12,Dining,Credit,Digital Wallet
+256,2535.88,2023-09-13,Travel,Debit,Digital Wallet
+257,4577.16,2023-09-14,Groceries,Credit,Digital Wallet
+258,976.1,2023-09-15,Travel,Debit,Bank Account
+259,3015.48,2023-09-16,Groceries,Debit,Credit Card
+260,3219.81,2023-09-17,Loan - Credit Card,Credit,Digital Wallet
+261,1686.76,2023-09-18,Utilities,Credit,Bank Account
+262,2560.8,2023-09-19,Loan - Credit Card,Credit,Bank Account
+263,1962.89,2023-09-20,Savings - Bank,Debit,Credit Card
+264,349.33,2023-09-21,Utilities,Debit,Digital Wallet
+265,3317.92,2023-09-22,Utilities - Electricity,Debit,Credit Card
+266,4499.84,2023-09-23,Groceries,Credit,Bank Account
+267,356.72,2023-09-24,Investment - Mutual Funds,Credit,Credit Card
+268,2894.57,2023-09-25,Loan - Credit Card,Credit,Digital Wallet
+269,99.97,2023-09-26,Utilities,Debit,Credit Card
+270,4384.27,2023-09-27,Loan - Credit Card,Debit,Bank Account
+271,4757.61,2023-09-28,Utilities,Credit,Bank Account
+272,4732.89,2023-09-29,Travel,Debit,Credit Card
+273,1885.13,2023-09-30,Utilities,Credit,Credit Card
+274,2862.8,2023-10-01,Utilities,Debit,Bank Account
+275,330.44,2023-10-02,Loan - Credit Card,Debit,Digital Wallet
+276,3431.7,2023-10-03,Groceries,Debit,Digital Wallet
+277,3213.56,2023-10-04,Loan - Credit Card,Debit,Digital Wallet
+278,3840.68,2023-10-05,Travel,Debit,Bank Account
+279,2682.87,2023-10-06,Investment - Mutual Funds,Debit,Credit Card
+280,2991.23,2023-10-07,Rent,Debit,Bank Account
+281,4773.15,2023-10-08,Dining,Debit,Bank Account
+282,46.38,2023-10-09,Dining,Debit,Credit Card
+283,1978.57,2023-10-10,Loan - Credit Card,Debit,Credit Card
+284,2951.52,2023-10-11,Utilities,Credit,Bank Account
+285,2558.44,2023-10-12,Rent,Credit,Bank Account
+286,2394.02,2023-10-13,Savings - Bank,Debit,Credit Card
+287,2462.7,2023-10-14,Loan - Credit Card,Debit,Digital Wallet
+288,4258.41,2023-10-15,Investment - Mutual Funds,Credit,Credit Card
+289,382.17,2023-10-16,Utilities,Credit,Credit Card
+290,807.12,2023-10-17,Rent,Debit,Bank Account
+291,781.99,2023-10-18,Loan - Credit Card,Credit,Credit Card
+292,3152.41,2023-10-19,Investment - Mutual Funds,Debit,Bank Account
+293,2646.42,2023-10-20,Utilities - Electricity,Debit,Digital Wallet
+294,1675.54,2023-10-21,Loan - Credit Card,Debit,Credit Card
+295,2565.68,2023-10-22,Investment - Mutual Funds,Debit,Credit Card
+296,1179.42,2023-10-23,Dining,Debit,Digital Wallet
+297,459.01,2023-10-24,Investment - Mutual Funds,Credit,Bank Account
+298,60.77,2023-10-25,Rent,Debit,Digital Wallet
+299,2365.39,2023-10-26,Travel,Debit,Bank Account
+300,773.01,2023-10-27,Loan - Credit Card,Credit,Digital Wallet
+301,481.02,2023-10-28,Groceries,Debit,Bank Account
+302,2399.15,2023-10-29,Loan - Credit Card,Debit,Bank Account
+303,54.46,2023-10-30,Groceries,Debit,Credit Card
+304,464.02,2023-10-31,Utilities,Credit,Digital Wallet
+305,4993.5,2023-11-01,Rent,Debit,Digital Wallet
+306,1285.11,2023-11-02,Rent,Credit,Digital Wallet
+307,4270.24,2023-11-03,Rent,Credit,Digital Wallet
+308,958.59,2023-11-04,Rent,Credit,Bank Account
+309,2888.04,2023-11-05,Dining,Debit,Credit Card
+310,4964.1,2023-11-06,Loan - Credit Card,Debit,Bank Account
+311,29.27,2023-11-07,Travel,Credit,Bank Account
+312,4970.65,2023-11-08,Dining,Credit,Credit Card
+313,4657.02,2023-11-09,Utilities - Electricity,Credit,Credit Card
+314,174.7,2023-11-10,Loan - Credit Card,Credit,Credit Card
+315,3646.8,2023-11-11,Groceries,Debit,Credit Card
+316,3778.62,2023-11-12,Rent,Credit,Digital Wallet
+317,2696.36,2023-11-13,Travel,Debit,Credit Card
+318,1476.42,2023-11-14,Savings - Bank,Credit,Bank Account
+319,59.48,2023-11-15,Investment - Mutual Funds,Credit,Digital Wallet
+320,4859.77,2023-11-16,Utilities - Electricity,Credit,Bank Account
+321,2704.1,2023-11-17,Dining,Credit,Credit Card
+322,894.78,2023-11-18,Utilities,Debit,Digital Wallet
+323,2504.42,2023-11-19,Dining,Debit,Bank Account
+324,1213.12,2023-11-20,Utilities,Debit,Digital Wallet
+325,633.51,2023-11-21,Investment - Mutual Funds,Credit,Credit Card
+326,168.84,2023-11-22,Dining,Credit,Bank Account
+327,3710.32,2023-11-23,Travel,Credit,Bank Account
+328,2473.74,2023-11-24,Utilities - Electricity,Credit,Bank Account
+329,1694.65,2023-11-25,Dining,Debit,Credit Card
+330,2631.02,2023-11-26,Loan - Credit Card,Credit,Digital Wallet
+331,3630.41,2023-11-27,Utilities,Credit,Credit Card
+332,2580.02,2023-11-28,Loan - Credit Card,Credit,Bank Account
+333,2236.94,2023-11-29,Dining,Credit,Digital Wallet
+334,2991.33,2023-11-30,Investment - Mutual Funds,Debit,Digital Wallet
+335,876.19,2023-12-01,Groceries,Debit,Digital Wallet
+336,3081.02,2023-12-02,Dining,Debit,Digital Wallet
+337,1336.71,2023-12-03,Utilities - Electricity,Credit,Credit Card
+338,1395.85,2023-12-04,Loan - Credit Card,Debit,Bank Account
+339,2713.32,2023-12-05,Loan - Credit Card,Credit,Bank Account
+340,3757.32,2023-12-06,Savings - Bank,Debit,Credit Card
+341,859.0,2023-12-07,Utilities - Electricity,Credit,Bank Account
+342,143.56,2023-12-08,Utilities,Credit,Credit Card
+343,1943.01,2023-12-09,Utilities,Debit,Digital Wallet
+344,1194.86,2023-12-10,Dining,Credit,Bank Account
+345,3038.17,2023-12-11,Loan - Credit Card,Debit,Credit Card
+346,872.82,2023-12-12,Utilities,Debit,Credit Card
+347,3712.49,2023-12-13,Loan - Credit Card,Credit,Bank Account
+348,954.01,2023-12-14,Groceries,Credit,Digital Wallet
+349,2939.44,2023-12-15,Investment - Mutual Funds,Debit,Bank Account
+350,4892.41,2023-12-16,Utilities - Electricity,Debit,Bank Account
+351,2635.35,2023-12-17,Savings - Bank,Debit,Credit Card
+352,667.27,2023-12-18,Loan - Credit Card,Credit,Digital Wallet
+353,4266.32,2023-12-19,Utilities - Electricity,Credit,Credit Card
+354,1959.65,2023-12-20,Groceries,Debit,Bank Account
+355,3519.57,2023-12-21,Travel,Debit,Credit Card
+356,1029.65,2023-12-22,Dining,Credit,Credit Card
+357,3530.43,2023-12-23,Loan - Credit Card,Credit,Bank Account
+358,3337.25,2023-12-24,Rent,Credit,Digital Wallet
+359,2515.75,2023-12-25,Travel,Debit,Bank Account
+360,1993.55,2023-12-26,Savings - Bank,Credit,Credit Card
+361,1030.27,2023-12-27,Investment - Mutual Funds,Debit,Digital Wallet
+362,270.36,2023-12-28,Groceries,Credit,Digital Wallet
+363,4464.85,2023-12-29,Travel,Credit,Bank Account
+364,4525.44,2023-12-30,Groceries,Debit,Credit Card
+365,2956.67,2023-12-31,Groceries,Credit,Credit Card
+366,3252.29,2024-01-01,Dining,Debit,Digital Wallet
+367,2853.53,2024-01-02,Groceries,Credit,Bank Account
+368,1842.58,2024-01-03,Investment - Mutual Funds,Debit,Digital Wallet
+369,4356.12,2024-01-04,Utilities,Debit,Digital Wallet
+370,739.6,2024-01-05,Loan - Credit Card,Debit,Credit Card
+371,1511.43,2024-01-06,Dining,Debit,Digital Wallet
+372,846.19,2024-01-07,Loan - Credit Card,Debit,Digital Wallet
+373,3793.18,2024-01-08,Rent,Credit,Bank Account
+374,2373.12,2024-01-09,Investment - Mutual Funds,Debit,Digital Wallet
+375,2743.87,2024-01-10,Dining,Debit,Digital Wallet
+376,2212.42,2024-01-11,Investment - Mutual Funds,Credit,Credit Card
+377,3350.68,2024-01-12,Savings - Bank,Credit,Bank Account
+378,1707.89,2024-01-13,Groceries,Debit,Credit Card
+379,4543.64,2024-01-14,Investment - Mutual Funds,Credit,Digital Wallet
+380,31.09,2024-01-15,Dining,Debit,Bank Account
+381,2122.29,2024-01-16,Investment - Mutual Funds,Debit,Credit Card
+382,1848.62,2024-01-17,Rent,Debit,Digital Wallet
+383,3486.03,2024-01-18,Dining,Credit,Digital Wallet
+384,76.34,2024-01-19,Utilities - Electricity,Debit,Credit Card
+385,3166.38,2024-01-20,Travel,Credit,Digital Wallet
+386,3323.0,2024-01-21,Utilities - Electricity,Debit,Digital Wallet
+387,513.67,2024-01-22,Utilities - Electricity,Debit,Bank Account
+388,1882.24,2024-01-23,Investment - Mutual Funds,Credit,Credit Card
+389,2475.81,2024-01-24,Groceries,Debit,Digital Wallet
+390,3514.38,2024-01-25,Loan - Credit Card,Credit,Digital Wallet
+391,628.78,2024-01-26,Rent,Credit,Digital Wallet
+392,2708.45,2024-01-27,Loan - Credit Card,Debit,Credit Card
+393,4083.92,2024-01-28,Rent,Credit,Digital Wallet
+394,147.55,2024-01-29,Rent,Debit,Digital Wallet
+395,1297.37,2024-01-30,Travel,Debit,Digital Wallet
+396,3424.28,2024-01-31,Groceries,Debit,Credit Card
+397,2640.88,2024-02-01,Travel,Debit,Digital Wallet
+398,2443.96,2024-02-02,Utilities,Credit,Bank Account
+399,801.27,2024-02-03,Utilities,Credit,Credit Card
+400,3306.22,2024-02-04,Dining,Credit,Digital Wallet
+401,1463.63,2024-02-05,Rent,Credit,Digital Wallet
+402,1269.65,2024-02-06,Investment - Mutual Funds,Debit,Bank Account
+403,3091.16,2024-02-07,Dining,Debit,Bank Account
+404,4139.98,2024-02-08,Groceries,Credit,Digital Wallet
+405,2402.33,2024-02-09,Travel,Debit,Bank Account
+406,4525.34,2024-02-10,Savings - Bank,Debit,Bank Account
+407,4920.26,2024-02-11,Loan - Credit Card,Debit,Credit Card
+408,804.03,2024-02-12,Savings - Bank,Debit,Digital Wallet
+409,3830.6,2024-02-13,Groceries,Debit,Digital Wallet
+410,4705.79,2024-02-14,Dining,Credit,Digital Wallet
+411,2920.58,2024-02-15,Investment - Mutual Funds,Credit,Bank Account
+412,4989.61,2024-02-16,Travel,Credit,Credit Card
+413,4309.62,2024-02-17,Rent,Debit,Credit Card
+414,667.92,2024-02-18,Rent,Credit,Credit Card
+415,4221.63,2024-02-19,Travel,Credit,Digital Wallet
+416,2400.57,2024-02-20,Travel,Debit,Credit Card
+417,390.19,2024-02-21,Savings - Bank,Debit,Digital Wallet
+418,234.07,2024-02-22,Rent,Credit,Bank Account
+419,448.65,2024-02-23,Utilities,Credit,Bank Account
+420,2936.51,2024-02-24,Rent,Debit,Digital Wallet
+421,142.76,2024-02-25,Investment - Mutual Funds,Credit,Digital Wallet
+422,4923.66,2024-02-26,Investment - Mutual Funds,Credit,Bank Account
+423,3075.61,2024-02-27,Rent,Credit,Digital Wallet
+424,2728.81,2024-02-28,Investment - Mutual Funds,Credit,Credit Card
+425,1408.05,2024-02-29,Loan - Credit Card,Debit,Credit Card
+426,4532.81,2024-03-01,Rent,Debit,Credit Card
+427,196.04,2024-03-02,Travel,Credit,Bank Account
+428,3542.76,2024-03-03,Travel,Debit,Digital Wallet
+429,2787.86,2024-03-04,Savings - Bank,Debit,Bank Account
+430,3839.26,2024-03-05,Loan - Credit Card,Credit,Bank Account
+431,4900.71,2024-03-06,Savings - Bank,Credit,Bank Account
+432,3908.29,2024-03-07,Utilities,Credit,Credit Card
+433,1106.09,2024-03-08,Utilities,Debit,Bank Account
+434,4679.35,2024-03-09,Travel,Debit,Bank Account
+435,1526.23,2024-03-10,Loan - Credit Card,Credit,Digital Wallet
+436,2372.48,2024-03-11,Utilities - Electricity,Debit,Digital Wallet
+437,4400.34,2024-03-12,Savings - Bank,Debit,Digital Wallet
+438,1279.83,2024-03-13,Savings - Bank,Credit,Bank Account
+439,2908.07,2024-03-14,Investment - Mutual Funds,Debit,Bank Account
+440,4781.44,2024-03-15,Utilities,Debit,Credit Card
+441,1523.51,2024-03-16,Rent,Debit,Credit Card
+442,4317.73,2024-03-17,Utilities - Electricity,Credit,Bank Account
+443,2783.79,2024-03-18,Savings - Bank,Credit,Credit Card
+444,4586.83,2024-03-19,Loan - Credit Card,Credit,Bank Account
+445,3621.43,2024-03-20,Utilities,Debit,Bank Account
+446,4700.35,2024-03-21,Savings - Bank,Debit,Digital Wallet
+447,129.64,2024-03-22,Groceries,Debit,Bank Account
+448,4495.12,2024-03-23,Utilities - Electricity,Credit,Bank Account
+449,898.07,2024-03-24,Savings - Bank,Credit,Digital Wallet
+450,1993.19,2024-03-25,Utilities - Electricity,Credit,Bank Account
+451,1464.73,2024-03-26,Investment - Mutual Funds,Credit,Digital Wallet
+452,4334.91,2024-03-27,Groceries,Debit,Credit Card
+453,2756.41,2024-03-28,Travel,Debit,Bank Account
+454,1948.27,2024-03-29,Travel,Debit,Digital Wallet
+455,497.13,2024-03-30,Utilities - Electricity,Credit,Bank Account
+456,4871.36,2024-03-31,Utilities,Credit,Bank Account
+457,3737.99,2024-04-01,Groceries,Debit,Bank Account
+458,2481.21,2024-04-02,Travel,Credit,Digital Wallet
+459,3825.99,2024-04-03,Groceries,Credit,Digital Wallet
+460,4644.09,2024-04-04,Groceries,Credit,Credit Card
+461,1527.25,2024-04-05,Savings - Bank,Debit,Credit Card
+462,1076.23,2024-04-06,Utilities,Debit,Digital Wallet
+463,948.44,2024-04-07,Groceries,Debit,Bank Account
+464,544.81,2024-04-08,Rent,Debit,Bank Account
+465,797.07,2024-04-09,Loan - Credit Card,Debit,Bank Account
+466,2594.6,2024-04-10,Utilities - Electricity,Debit,Credit Card
+467,377.15,2024-04-11,Utilities,Debit,Credit Card
+468,3091.62,2024-04-12,Loan - Credit Card,Credit,Bank Account
+469,248.44,2024-04-13,Utilities - Electricity,Debit,Credit Card
+470,1800.26,2024-04-14,Dining,Credit,Digital Wallet
+471,4090.49,2024-04-15,Loan - Credit Card,Debit,Digital Wallet
+472,4837.2,2024-04-16,Travel,Credit,Digital Wallet
+473,3560.96,2024-04-17,Savings - Bank,Debit,Credit Card
+474,4152.42,2024-04-18,Groceries,Credit,Digital Wallet
+475,890.85,2024-04-19,Rent,Debit,Credit Card
+476,4795.39,2024-04-20,Groceries,Debit,Digital Wallet
+477,2221.97,2024-04-21,Groceries,Debit,Bank Account
+478,4343.15,2024-04-22,Dining,Credit,Digital Wallet
+479,1372.27,2024-04-23,Groceries,Credit,Digital Wallet
+480,914.18,2024-04-24,Utilities,Debit,Bank Account
+481,588.48,2024-04-25,Savings - Bank,Credit,Bank Account
+482,666.6,2024-04-26,Loan - Credit Card,Debit,Digital Wallet
+483,4526.04,2024-04-27,Utilities - Electricity,Debit,Credit Card
+484,2160.2,2024-04-28,Utilities - Electricity,Debit,Credit Card
+485,4539.12,2024-04-29,Loan - Credit Card,Debit,Bank Account
+486,2804.74,2024-04-30,Utilities - Electricity,Credit,Digital Wallet
+487,3047.54,2024-05-01,Utilities,Credit,Bank Account
+488,3058.22,2024-05-02,Rent,Credit,Digital Wallet
+489,900.46,2024-05-03,Rent,Credit,Digital Wallet
+490,387.94,2024-05-04,Savings - Bank,Debit,Digital Wallet
+491,3070.08,2024-05-05,Loan - Credit Card,Credit,Digital Wallet
+492,4522.54,2024-05-06,Investment - Mutual Funds,Debit,Bank Account
+493,4112.91,2024-05-07,Investment - Mutual Funds,Credit,Bank Account
+494,3882.48,2024-05-08,Rent,Debit,Bank Account
+495,2740.17,2024-05-09,Groceries,Credit,Credit Card
+496,2308.47,2024-05-10,Savings - Bank,Credit,Credit Card
+497,2767.06,2024-05-11,Utilities,Credit,Bank Account
+498,4523.15,2024-05-12,Utilities,Credit,Credit Card
+499,3197.99,2024-05-13,Rent,Credit,Bank Account
+500,11.25,2024-05-14,Dining,Credit,Credit Card
+501,3574.15,2024-05-15,Dining,Credit,Digital Wallet
+502,1052.74,2024-05-16,Groceries,Debit,Bank Account
+503,704.26,2024-05-17,Dining,Credit,Bank Account
+504,966.95,2024-05-18,Investment - Mutual Funds,Credit,Digital Wallet
+505,3385.38,2024-05-19,Investment - Mutual Funds,Credit,Digital Wallet
+506,192.08,2024-05-20,Utilities,Credit,Digital Wallet
+507,3441.62,2024-05-21,Dining,Credit,Credit Card
+508,2265.71,2024-05-22,Rent,Credit,Credit Card
+509,4677.08,2024-05-23,Investment - Mutual Funds,Debit,Credit Card
+510,4703.44,2024-05-24,Loan - Credit Card,Debit,Digital Wallet
+511,4676.35,2024-05-25,Utilities - Electricity,Credit,Bank Account
+512,1715.59,2024-05-26,Savings - Bank,Debit,Credit Card
+513,3752.26,2024-05-27,Investment - Mutual Funds,Credit,Digital Wallet
+514,4518.61,2024-05-28,Utilities - Electricity,Credit,Credit Card
+515,4652.63,2024-05-29,Dining,Credit,Digital Wallet
+516,3798.2,2024-05-30,Rent,Credit,Bank Account
+517,3366.39,2024-05-31,Travel,Credit,Bank Account
+518,314.28,2024-06-01,Groceries,Debit,Digital Wallet
+519,1143.14,2024-06-02,Utilities - Electricity,Credit,Bank Account
+520,1645.43,2024-06-03,Rent,Debit,Credit Card
+521,2348.48,2024-06-04,Rent,Debit,Digital Wallet
+522,3486.73,2024-06-05,Savings - Bank,Credit,Credit Card
+523,832.04,2024-06-06,Loan - Credit Card,Credit,Digital Wallet
+524,3007.02,2024-06-07,Rent,Credit,Digital Wallet
+525,1131.03,2024-06-08,Loan - Credit Card,Credit,Bank Account
+526,3323.61,2024-06-09,Savings - Bank,Credit,Bank Account
+527,3338.29,2024-06-10,Savings - Bank,Credit,Credit Card
+528,445.04,2024-06-11,Savings - Bank,Debit,Digital Wallet
+529,2008.25,2024-06-12,Dining,Debit,Credit Card
+530,4480.6,2024-06-13,Rent,Credit,Digital Wallet
+531,1604.7,2024-06-14,Utilities,Debit,Credit Card
+532,759.8,2024-06-15,Utilities,Debit,Digital Wallet
+533,3028.79,2024-06-16,Savings - Bank,Credit,Digital Wallet
+534,1118.81,2024-06-17,Utilities - Electricity,Debit,Digital Wallet
+535,1010.37,2024-06-18,Rent,Credit,Bank Account
+536,2417.82,2024-06-19,Utilities - Electricity,Debit,Bank Account
+537,3117.15,2024-06-20,Dining,Credit,Credit Card
+538,4987.13,2024-06-21,Loan - Credit Card,Credit,Digital Wallet
+539,2007.19,2024-06-22,Utilities - Electricity,Debit,Digital Wallet
+540,2643.9,2024-06-23,Utilities,Debit,Digital Wallet
+541,1027.02,2024-06-24,Rent,Debit,Digital Wallet
+542,1047.08,2024-06-25,Groceries,Credit,Credit Card
+543,4769.77,2024-06-26,Utilities - Electricity,Debit,Digital Wallet
+544,371.27,2024-06-27,Groceries,Credit,Credit Card
+545,1262.89,2024-06-28,Utilities - Electricity,Credit,Bank Account
+546,3482.91,2024-06-29,Utilities,Debit,Credit Card
+547,2219.71,2024-06-30,Utilities,Credit,Credit Card
+548,1020.8,2024-07-01,Loan - Credit Card,Debit,Credit Card
+549,3290.5,2024-07-02,Investment - Mutual Funds,Debit,Credit Card
+550,3661.16,2024-07-03,Dining,Debit,Digital Wallet
+551,2388.29,2024-07-04,Loan - Credit Card,Debit,Bank Account
+552,1303.75,2024-07-05,Travel,Credit,Credit Card
+553,2356.65,2024-07-06,Dining,Credit,Digital Wallet
+554,4026.97,2024-07-07,Rent,Credit,Bank Account
+555,1491.06,2024-07-08,Loan - Credit Card,Debit,Bank Account
+556,2104.64,2024-07-09,Investment - Mutual Funds,Debit,Digital Wallet
+557,4059.18,2024-07-10,Groceries,Debit,Bank Account
+558,1919.3,2024-07-11,Travel,Debit,Credit Card
+559,4216.29,2024-07-12,Dining,Credit,Credit Card
+560,2438.97,2024-07-13,Dining,Credit,Credit Card
+561,493.35,2024-07-14,Investment - Mutual Funds,Debit,Bank Account
+562,575.48,2024-07-15,Dining,Credit,Credit Card
+563,4665.12,2024-07-16,Rent,Credit,Bank Account
+564,1645.31,2024-07-17,Utilities,Debit,Credit Card
+565,4415.72,2024-07-18,Investment - Mutual Funds,Credit,Credit Card
+566,3764.8,2024-07-19,Travel,Debit,Credit Card
+567,107.29,2024-07-20,Loan - Credit Card,Debit,Digital Wallet
+568,3697.78,2024-07-21,Groceries,Credit,Credit Card
+569,2940.51,2024-07-22,Rent,Credit,Bank Account
+570,680.76,2024-07-23,Investment - Mutual Funds,Debit,Credit Card
+571,1243.35,2024-07-24,Rent,Debit,Bank Account
+572,3540.13,2024-07-25,Travel,Debit,Digital Wallet
+573,26.72,2024-07-26,Rent,Debit,Digital Wallet
+574,4322.39,2024-07-27,Investment - Mutual Funds,Credit,Bank Account
+575,3886.36,2024-07-28,Rent,Credit,Bank Account
+576,1713.55,2024-07-29,Groceries,Debit,Credit Card
+577,3255.07,2024-07-30,Loan - Credit Card,Credit,Digital Wallet
+578,4928.79,2024-07-31,Travel,Debit,Digital Wallet
+579,277.89,2024-08-01,Travel,Debit,Bank Account
+580,1123.61,2024-08-02,Loan - Credit Card,Credit,Credit Card
+581,4511.17,2024-08-03,Utilities,Credit,Digital Wallet
+582,4056.98,2024-08-04,Loan - Credit Card,Debit,Bank Account
+583,2079.63,2024-08-05,Travel,Credit,Credit Card
+584,3554.07,2024-08-06,Travel,Credit,Bank Account
+585,2995.62,2024-08-07,Loan - Credit Card,Debit,Bank Account
+586,4110.61,2024-08-08,Utilities,Credit,Bank Account
+587,2863.84,2024-08-09,Savings - Bank,Debit,Bank Account
+588,1816.89,2024-08-10,Rent,Credit,Digital Wallet
+589,2937.9,2024-08-11,Travel,Debit,Credit Card
+590,2405.23,2024-08-12,Utilities - Electricity,Credit,Credit Card
+591,3528.04,2024-08-13,Utilities - Electricity,Credit,Bank Account
+592,761.59,2024-08-14,Dining,Debit,Digital Wallet
+593,3646.75,2024-08-15,Loan - Credit Card,Credit,Digital Wallet
+594,3015.61,2024-08-16,Loan - Credit Card,Debit,Digital Wallet
+595,3371.23,2024-08-17,Savings - Bank,Debit,Bank Account
+596,3072.24,2024-08-18,Utilities,Credit,Credit Card
+597,1719.86,2024-08-19,Travel,Credit,Digital Wallet
+598,3221.42,2024-08-20,Utilities - Electricity,Credit,Digital Wallet
+599,565.68,2024-08-21,Utilities,Debit,Bank Account
+600,314.94,2024-08-22,Dining,Credit,Digital Wallet
+601,2137.58,2024-08-23,Rent,Debit,Digital Wallet
+602,3773.55,2024-08-24,Utilities,Debit,Bank Account
+603,4616.22,2024-08-25,Utilities - Electricity,Debit,Digital Wallet
+604,3831.61,2024-08-26,Dining,Debit,Credit Card
+605,431.33,2024-08-27,Utilities,Debit,Bank Account
+606,958.33,2024-08-28,Investment - Mutual Funds,Credit,Digital Wallet
+607,1675.39,2024-08-29,Loan - Credit Card,Debit,Digital Wallet
+608,3118.86,2024-08-30,Investment - Mutual Funds,Debit,Bank Account
+609,52.48,2024-08-31,Dining,Credit,Credit Card
+610,3215.74,2024-09-01,Groceries,Debit,Bank Account
+611,3612.23,2024-09-02,Savings - Bank,Debit,Credit Card
+612,4654.27,2024-09-03,Investment - Mutual Funds,Credit,Bank Account
+613,2364.58,2024-09-04,Rent,Debit,Credit Card
+614,1409.65,2024-09-05,Utilities,Debit,Credit Card
+615,1236.08,2024-09-06,Utilities,Debit,Digital Wallet
+616,2010.47,2024-09-07,Utilities,Debit,Bank Account
+617,1818.17,2024-09-08,Rent,Debit,Bank Account
+618,1290.9,2024-09-09,Utilities,Debit,Digital Wallet
+619,3148.96,2024-09-10,Investment - Mutual Funds,Credit,Digital Wallet
+620,3177.54,2024-09-11,Loan - Credit Card,Debit,Digital Wallet
+621,3682.15,2024-09-12,Groceries,Credit,Bank Account
+622,2289.43,2024-09-13,Savings - Bank,Credit,Bank Account
+623,447.3,2024-09-14,Utilities,Credit,Digital Wallet
+624,4568.51,2024-09-15,Savings - Bank,Credit,Credit Card
+625,2382.55,2024-09-16,Rent,Credit,Bank Account
+626,3296.22,2024-09-17,Utilities - Electricity,Debit,Bank Account
+627,1832.7,2024-09-18,Investment - Mutual Funds,Credit,Credit Card
+628,3256.32,2024-09-19,Utilities - Electricity,Debit,Digital Wallet
+629,3859.58,2024-09-20,Investment - Mutual Funds,Credit,Digital Wallet
+630,1356.95,2024-09-21,Savings - Bank,Credit,Bank Account
+631,1665.82,2024-09-22,Utilities - Electricity,Debit,Digital Wallet
+632,1585.75,2024-09-23,Utilities - Electricity,Credit,Digital Wallet
+633,1537.46,2024-09-24,Investment - Mutual Funds,Credit,Digital Wallet
+634,3028.9,2024-09-25,Utilities,Credit,Credit Card
+635,3006.56,2024-09-26,Groceries,Debit,Credit Card
+636,3123.23,2024-09-27,Utilities,Debit,Bank Account
+637,1014.2,2024-09-28,Rent,Debit,Credit Card
+638,4050.56,2024-09-29,Groceries,Debit,Credit Card
+639,2576.09,2024-09-30,Utilities - Electricity,Debit,Digital Wallet
+640,2033.15,2024-10-01,Utilities,Debit,Bank Account
+641,4859.09,2024-10-02,Utilities,Credit,Digital Wallet
+642,1724.61,2024-10-03,Investment - Mutual Funds,Debit,Credit Card
+643,4435.75,2024-10-04,Loan - Credit Card,Credit,Credit Card
+644,3222.56,2024-10-05,Utilities,Credit,Digital Wallet
+645,4503.06,2024-10-06,Loan - Credit Card,Debit,Bank Account
+646,1905.67,2024-10-07,Utilities - Electricity,Debit,Credit Card
+647,4938.33,2024-10-08,Utilities,Credit,Digital Wallet
+648,4265.22,2024-10-09,Utilities,Credit,Bank Account
+649,3281.02,2024-10-10,Dining,Debit,Digital Wallet
+650,3408.1,2024-10-11,Utilities - Electricity,Credit,Credit Card
+651,4548.58,2024-10-12,Investment - Mutual Funds,Debit,Bank Account
+652,2224.76,2024-10-13,Groceries,Debit,Credit Card
+653,2923.79,2024-10-14,Utilities,Credit,Digital Wallet
+654,377.3,2024-10-15,Groceries,Debit,Digital Wallet
+655,4241.17,2024-10-16,Groceries,Credit,Credit Card
+656,1692.32,2024-10-17,Rent,Credit,Credit Card
+657,2565.1,2024-10-18,Travel,Debit,Bank Account
+658,3669.97,2024-10-19,Groceries,Credit,Digital Wallet
+659,3517.24,2024-10-20,Savings - Bank,Credit,Bank Account
+660,376.26,2024-10-21,Travel,Debit,Bank Account
+661,2946.89,2024-10-22,Groceries,Debit,Bank Account
+662,4122.66,2024-10-23,Utilities,Credit,Credit Card
+663,4010.75,2024-10-24,Travel,Debit,Bank Account
+664,3080.33,2024-10-25,Dining,Debit,Digital Wallet
+665,4959.22,2024-10-26,Savings - Bank,Debit,Credit Card
+666,157.74,2024-10-27,Savings - Bank,Debit,Digital Wallet
+667,3150.78,2024-10-28,Groceries,Credit,Credit Card
+668,4309.39,2024-10-29,Utilities - Electricity,Debit,Bank Account
+669,512.07,2024-10-30,Travel,Debit,Credit Card
+670,125.15,2024-10-31,Rent,Debit,Bank Account
+671,142.07,2024-11-01,Dining,Credit,Bank Account
+672,4474.64,2024-11-02,Savings - Bank,Debit,Digital Wallet
+673,2579.35,2024-11-03,Utilities - Electricity,Debit,Credit Card
+674,3700.68,2024-11-04,Rent,Credit,Credit Card
+675,1583.38,2024-11-05,Utilities,Credit,Digital Wallet
+676,1469.37,2024-11-06,Rent,Debit,Credit Card
+677,4800.34,2024-11-07,Loan - Credit Card,Debit,Credit Card
+678,3560.68,2024-11-08,Utilities - Electricity,Credit,Bank Account
+679,3464.56,2024-11-09,Dining,Debit,Credit Card
+680,511.02,2024-11-10,Loan - Credit Card,Debit,Credit Card
+681,2334.68,2024-11-11,Savings - Bank,Credit,Digital Wallet
+682,2850.59,2024-11-12,Travel,Credit,Credit Card
+683,4571.53,2024-11-13,Utilities,Credit,Credit Card
+684,4119.35,2024-11-14,Travel,Debit,Bank Account
+685,4755.51,2024-11-15,Utilities,Credit,Bank Account
+686,4197.36,2024-11-16,Utilities - Electricity,Debit,Credit Card
+687,4922.02,2024-11-17,Loan - Credit Card,Debit,Credit Card
+688,4659.53,2024-11-18,Utilities,Debit,Digital Wallet
+689,2110.89,2024-11-19,Investment - Mutual Funds,Debit,Credit Card
+690,4097.44,2024-11-20,Utilities - Electricity,Debit,Credit Card
+691,2051.38,2024-11-21,Investment - Mutual Funds,Credit,Digital Wallet
+692,3343.23,2024-11-22,Travel,Debit,Bank Account
+693,1836.78,2024-11-23,Utilities,Credit,Bank Account
+694,4231.01,2024-11-24,Groceries,Debit,Credit Card
+695,69.14,2024-11-25,Dining,Credit,Bank Account
+696,2536.62,2024-11-26,Loan - Credit Card,Debit,Bank Account
+697,1463.11,2024-11-27,Groceries,Debit,Digital Wallet
+698,4855.25,2024-11-28,Travel,Debit,Digital Wallet
+699,4240.76,2024-11-29,Rent,Debit,Bank Account
+700,60.06,2024-11-30,Loan - Credit Card,Credit,Bank Account
+701,191.91,2024-12-01,Investment - Mutual Funds,Debit,Credit Card
+702,2857.63,2024-12-02,Utilities,Debit,Credit Card
+703,3190.98,2024-12-03,Dining,Debit,Digital Wallet
+704,1713.93,2024-12-04,Utilities - Electricity,Credit,Bank Account
+705,3173.25,2024-12-05,Savings - Bank,Debit,Bank Account
+706,1218.51,2024-12-06,Loan - Credit Card,Credit,Digital Wallet
+707,1758.53,2024-12-07,Groceries,Credit,Digital Wallet
+708,3394.5,2024-12-08,Rent,Credit,Credit Card
+709,958.57,2024-12-09,Investment - Mutual Funds,Credit,Credit Card
+710,3175.52,2024-12-10,Investment - Mutual Funds,Debit,Credit Card
+711,626.9,2024-12-11,Dining,Debit,Digital Wallet
+712,645.84,2024-12-12,Savings - Bank,Debit,Bank Account
+713,1161.97,2024-12-13,Utilities,Debit,Digital Wallet
+714,3413.03,2024-12-14,Investment - Mutual Funds,Debit,Digital Wallet
+715,1150.95,2024-12-15,Utilities - Electricity,Credit,Bank Account
+716,1240.83,2024-12-16,Utilities - Electricity,Credit,Digital Wallet
+717,4195.28,2024-12-17,Savings - Bank,Credit,Credit Card
+718,3375.47,2024-12-18,Groceries,Debit,Digital Wallet
+719,1394.49,2024-12-19,Travel,Credit,Bank Account
+720,1934.19,2024-12-20,Travel,Debit,Credit Card
+721,1222.31,2024-12-21,Investment - Mutual Funds,Debit,Digital Wallet
+722,119.29,2024-12-22,Groceries,Debit,Digital Wallet
+723,3465.65,2024-12-23,Groceries,Credit,Digital Wallet
+724,3385.51,2024-12-24,Dining,Debit,Credit Card
+725,1615.96,2024-12-25,Travel,Credit,Digital Wallet
+726,788.83,2024-12-26,Investment - Mutual Funds,Debit,Digital Wallet
+727,440.03,2024-12-27,Utilities - Electricity,Debit,Digital Wallet
+728,2687.22,2024-12-28,Investment - Mutual Funds,Debit,Digital Wallet
+729,2798.55,2024-12-29,Utilities - Electricity,Debit,Digital Wallet
+730,631.18,2024-12-30,Dining,Debit,Digital Wallet
+731,2164.1,2024-12-31,Loan - Credit Card,Credit,Credit Card
+732,4062.71,2025-01-01,Loan - Credit Card,Credit,Credit Card
+733,2392.81,2025-01-02,Utilities - Electricity,Credit,Digital Wallet
+734,3612.54,2025-01-03,Groceries,Credit,Credit Card
+735,285.2,2025-01-04,Rent,Credit,Bank Account
+736,2292.49,2025-01-05,Loan - Credit Card,Debit,Bank Account
+737,967.01,2025-01-06,Savings - Bank,Debit,Credit Card
+738,262.58,2025-01-07,Dining,Credit,Digital Wallet
+739,4614.5,2025-01-08,Investment - Mutual Funds,Credit,Bank Account
+740,2246.32,2025-01-09,Rent,Credit,Digital Wallet
+741,179.74,2025-01-10,Dining,Debit,Bank Account
+742,2039.95,2025-01-11,Rent,Credit,Credit Card
+743,624.08,2025-01-12,Rent,Debit,Bank Account
+744,1310.2,2025-01-13,Utilities,Debit,Digital Wallet
+745,4695.44,2025-01-14,Rent,Credit,Credit Card
+746,2981.79,2025-01-15,Investment - Mutual Funds,Credit,Bank Account
+747,1652.7,2025-01-16,Investment - Mutual Funds,Credit,Digital Wallet
+748,2956.2,2025-01-17,Utilities,Credit,Bank Account
+749,678.72,2025-01-18,Groceries,Credit,Bank Account
+750,88.78,2025-01-19,Savings - Bank,Credit,Digital Wallet
+751,3470.57,2025-01-20,Travel,Debit,Bank Account
+752,4557.25,2025-01-21,Utilities,Credit,Bank Account
+753,4734.45,2025-01-22,Loan - Credit Card,Debit,Bank Account
+754,2494.38,2025-01-23,Loan - Credit Card,Credit,Credit Card
+755,4133.82,2025-01-24,Utilities,Credit,Bank Account
+756,4494.34,2025-01-25,Loan - Credit Card,Credit,Credit Card
+757,128.19,2025-01-26,Groceries,Debit,Digital Wallet
+758,905.68,2025-01-27,Groceries,Debit,Bank Account
+759,254.52,2025-01-28,Dining,Debit,Digital Wallet
+760,1410.62,2025-01-29,Groceries,Credit,Bank Account
+761,1050.82,2025-01-30,Dining,Credit,Digital Wallet
+762,157.17,2025-01-31,Utilities,Debit,Digital Wallet
+763,949.21,2025-02-01,Rent,Debit,Bank Account
+764,4463.42,2025-02-02,Rent,Debit,Bank Account
+765,2716.05,2025-02-03,Rent,Credit,Bank Account
+766,3748.53,2025-02-04,Loan - Credit Card,Debit,Credit Card
+767,1373.27,2025-02-05,Rent,Credit,Bank Account
+768,1558.22,2025-02-06,Savings - Bank,Debit,Bank Account
+769,1615.33,2025-02-07,Dining,Debit,Digital Wallet
+770,3501.75,2025-02-08,Dining,Debit,Digital Wallet
+771,2225.61,2025-02-09,Loan - Credit Card,Credit,Bank Account
+772,1504.2,2025-02-10,Dining,Credit,Bank Account
+773,2474.22,2025-02-11,Travel,Credit,Credit Card
+774,1754.33,2025-02-12,Investment - Mutual Funds,Debit,Digital Wallet
+775,2613.55,2025-02-13,Savings - Bank,Debit,Credit Card
+776,760.2,2025-02-14,Investment - Mutual Funds,Debit,Credit Card
+777,2245.63,2025-02-15,Savings - Bank,Debit,Credit Card
+778,4560.09,2025-02-16,Travel,Debit,Digital Wallet
+779,3920.05,2025-02-17,Utilities,Credit,Bank Account
+780,3407.45,2025-02-18,Utilities - Electricity,Credit,Bank Account
+781,2825.85,2025-02-19,Loan - Credit Card,Credit,Bank Account
+782,3017.08,2025-02-20,Dining,Debit,Credit Card
+783,4647.06,2025-02-21,Rent,Credit,Credit Card
+784,1985.68,2025-02-22,Rent,Credit,Bank Account
+785,1889.48,2025-02-23,Dining,Credit,Digital Wallet
+786,2511.38,2025-02-24,Rent,Debit,Bank Account
+787,4966.42,2025-02-25,Rent,Debit,Digital Wallet
+788,3516.09,2025-02-26,Travel,Credit,Bank Account
+789,3322.01,2025-02-27,Savings - Bank,Debit,Digital Wallet
+790,4450.47,2025-02-28,Loan - Credit Card,Debit,Digital Wallet
+791,3299.43,2025-03-01,Loan - Credit Card,Debit,Digital Wallet
+792,289.09,2025-03-02,Investment - Mutual Funds,Credit,Bank Account
+793,2812.55,2025-03-03,Dining,Credit,Bank Account
+794,907.83,2025-03-04,Utilities - Electricity,Credit,Credit Card
+795,2633.24,2025-03-05,Investment - Mutual Funds,Debit,Digital Wallet
+796,1903.68,2025-03-06,Utilities - Electricity,Credit,Bank Account
+797,2624.85,2025-03-07,Utilities,Credit,Digital Wallet
+798,2000.07,2025-03-08,Travel,Credit,Bank Account
+799,2496.64,2025-03-09,Rent,Credit,Digital Wallet
+800,722.14,2025-03-10,Travel,Debit,Bank Account
+801,3325.34,2025-03-11,Utilities,Credit,Bank Account
+802,4252.56,2025-03-12,Loan - Credit Card,Debit,Credit Card
+803,1894.06,2025-03-13,Travel,Debit,Digital Wallet
+804,343.4,2025-03-14,Groceries,Debit,Credit Card
+805,4240.55,2025-03-15,Dining,Credit,Credit Card
+806,2403.05,2025-03-16,Dining,Debit,Bank Account
+807,1830.21,2025-03-17,Utilities - Electricity,Credit,Bank Account
+808,2088.72,2025-03-18,Travel,Credit,Digital Wallet
+809,2825.05,2025-03-19,Dining,Debit,Credit Card
+810,2912.05,2025-03-20,Investment - Mutual Funds,Credit,Credit Card
+811,1086.65,2025-03-21,Loan - Credit Card,Debit,Digital Wallet
+812,2096.71,2025-03-22,Groceries,Debit,Digital Wallet
+813,3303.42,2025-03-23,Savings - Bank,Credit,Bank Account
+814,841.97,2025-03-24,Investment - Mutual Funds,Credit,Digital Wallet
+815,4967.37,2025-03-25,Travel,Debit,Credit Card
+816,1323.64,2025-03-26,Groceries,Credit,Bank Account
+817,4643.85,2025-03-27,Groceries,Debit,Bank Account
+818,1976.79,2025-03-28,Utilities,Credit,Bank Account
+819,419.58,2025-03-29,Groceries,Debit,Credit Card
+820,379.28,2025-03-30,Savings - Bank,Credit,Digital Wallet
+821,4261.3,2025-03-31,Travel,Credit,Digital Wallet
+822,3657.52,2025-04-01,Dining,Credit,Credit Card
+823,1961.99,2025-04-02,Dining,Debit,Digital Wallet
+824,3791.98,2025-04-03,Utilities,Debit,Credit Card
+825,4820.91,2025-04-04,Travel,Credit,Digital Wallet
+826,417.88,2025-04-05,Dining,Credit,Credit Card
+827,4131.52,2025-04-06,Rent,Credit,Bank Account
+828,221.03,2025-04-07,Utilities - Electricity,Credit,Digital Wallet
+829,996.5,2025-04-08,Utilities - Electricity,Debit,Digital Wallet
+830,1787.49,2025-04-09,Investment - Mutual Funds,Debit,Credit Card
+831,4497.22,2025-04-10,Investment - Mutual Funds,Debit,Bank Account
+832,2893.48,2025-04-11,Loan - Credit Card,Credit,Credit Card
+833,2287.48,2025-04-12,Loan - Credit Card,Debit,Digital Wallet
+834,830.88,2025-04-13,Utilities - Electricity,Credit,Credit Card
+835,3639.71,2025-04-14,Groceries,Credit,Digital Wallet
+836,1876.34,2025-04-15,Investment - Mutual Funds,Credit,Bank Account
+837,4963.98,2025-04-16,Utilities - Electricity,Credit,Digital Wallet
+838,3142.06,2025-04-17,Investment - Mutual Funds,Debit,Bank Account
+839,22.31,2025-04-18,Loan - Credit Card,Debit,Digital Wallet
+840,2538.39,2025-04-19,Savings - Bank,Credit,Digital Wallet
+841,3356.15,2025-04-20,Travel,Credit,Digital Wallet
+842,1794.68,2025-04-21,Travel,Debit,Digital Wallet
+843,1072.77,2025-04-22,Utilities - Electricity,Debit,Digital Wallet
+844,1499.87,2025-04-23,Investment - Mutual Funds,Debit,Digital Wallet
+845,1941.79,2025-04-24,Travel,Debit,Credit Card
+846,3910.68,2025-04-25,Loan - Credit Card,Debit,Digital Wallet
+847,880.31,2025-04-26,Travel,Credit,Credit Card
+848,2434.71,2025-04-27,Utilities - Electricity,Credit,Digital Wallet
+849,4087.98,2025-04-28,Dining,Credit,Digital Wallet
+850,3549.36,2025-04-29,Dining,Debit,Bank Account
+851,586.89,2025-04-30,Savings - Bank,Debit,Bank Account
+852,4813.33,2025-05-01,Utilities,Debit,Bank Account
+853,1778.55,2025-05-02,Loan - Credit Card,Credit,Digital Wallet
+854,1153.13,2025-05-03,Loan - Credit Card,Credit,Bank Account
+855,2600.23,2025-05-04,Investment - Mutual Funds,Debit,Bank Account
+856,1923.11,2025-05-05,Utilities - Electricity,Debit,Credit Card
+857,4316.17,2025-05-06,Investment - Mutual Funds,Credit,Credit Card
+858,847.11,2025-05-07,Utilities - Electricity,Debit,Credit Card
+859,607.27,2025-05-08,Groceries,Credit,Bank Account
+860,2830.81,2025-05-09,Groceries,Debit,Credit Card
+861,3010.68,2025-05-10,Rent,Debit,Bank Account
+862,3247.76,2025-05-11,Travel,Credit,Credit Card
+863,770.2,2025-05-12,Investment - Mutual Funds,Debit,Bank Account
+864,4431.28,2025-05-13,Investment - Mutual Funds,Debit,Credit Card
+865,3137.83,2025-05-14,Dining,Debit,Credit Card
+866,3721.38,2025-05-15,Rent,Debit,Credit Card
+867,4760.42,2025-05-16,Savings - Bank,Credit,Credit Card
+868,1696.31,2025-05-17,Savings - Bank,Debit,Digital Wallet
+869,4118.67,2025-05-18,Utilities,Debit,Bank Account
+870,3686.15,2025-05-19,Loan - Credit Card,Debit,Bank Account
+871,3276.99,2025-05-20,Utilities,Debit,Bank Account
+872,1103.67,2025-05-21,Groceries,Debit,Credit Card
+873,2696.17,2025-05-22,Investment - Mutual Funds,Credit,Bank Account
+874,2295.71,2025-05-23,Investment - Mutual Funds,Debit,Credit Card
+875,2967.62,2025-05-24,Travel,Debit,Credit Card
+876,4837.43,2025-05-25,Investment - Mutual Funds,Debit,Credit Card
+877,3216.92,2025-05-26,Utilities,Credit,Bank Account
+878,1529.24,2025-05-27,Dining,Credit,Bank Account
+879,4552.49,2025-05-28,Travel,Debit,Bank Account
+880,414.84,2025-05-29,Rent,Debit,Credit Card
+881,1805.15,2025-05-30,Travel,Debit,Digital Wallet
+882,3111.43,2025-05-31,Utilities - Electricity,Credit,Digital Wallet
+883,4856.6,2025-06-01,Travel,Credit,Digital Wallet
+884,3068.38,2025-06-02,Utilities,Credit,Bank Account
+885,4143.92,2025-06-03,Loan - Credit Card,Debit,Bank Account
+886,1386.04,2025-06-04,Utilities,Credit,Credit Card
+887,2984.59,2025-06-05,Travel,Debit,Digital Wallet
+888,4559.22,2025-06-06,Groceries,Credit,Digital Wallet
+889,235.91,2025-06-07,Utilities,Debit,Bank Account
+890,3850.19,2025-06-08,Investment - Mutual Funds,Debit,Bank Account
+891,4115.43,2025-06-09,Utilities - Electricity,Debit,Digital Wallet
+892,1084.41,2025-06-10,Savings - Bank,Credit,Digital Wallet
+893,79.22,2025-06-11,Savings - Bank,Debit,Bank Account
+894,1371.15,2025-06-12,Groceries,Debit,Bank Account
+895,1511.33,2025-06-13,Loan - Credit Card,Credit,Digital Wallet
+896,3318.34,2025-06-14,Travel,Credit,Digital Wallet
+897,4285.43,2025-06-15,Utilities - Electricity,Credit,Bank Account
+898,2351.0,2025-06-16,Groceries,Credit,Credit Card
+899,2609.59,2025-06-17,Savings - Bank,Credit,Digital Wallet
+900,634.87,2025-06-18,Loan - Credit Card,Debit,Digital Wallet
+901,4053.69,2025-06-19,Savings - Bank,Credit,Bank Account
+902,1199.17,2025-06-20,Savings - Bank,Credit,Bank Account
+903,3541.71,2025-06-21,Savings - Bank,Credit,Bank Account
+904,3834.25,2025-06-22,Rent,Debit,Digital Wallet
+905,810.94,2025-06-23,Investment - Mutual Funds,Credit,Bank Account
+906,798.69,2025-06-24,Utilities - Electricity,Debit,Digital Wallet
+907,1188.67,2025-06-25,Savings - Bank,Credit,Digital Wallet
+908,122.47,2025-06-26,Rent,Credit,Credit Card
+909,62.36,2025-06-27,Utilities - Electricity,Credit,Credit Card
+910,4039.79,2025-06-28,Loan - Credit Card,Credit,Credit Card
+911,2278.05,2025-06-29,Groceries,Credit,Digital Wallet
+912,3089.9,2025-06-30,Rent,Debit,Digital Wallet
+913,756.73,2025-07-01,Travel,Debit,Bank Account
+914,4787.61,2025-07-02,Utilities - Electricity,Debit,Bank Account
+915,1996.33,2025-07-03,Utilities - Electricity,Debit,Bank Account
+916,3895.73,2025-07-04,Savings - Bank,Credit,Credit Card
+917,3157.68,2025-07-05,Utilities - Electricity,Debit,Credit Card
+918,2636.65,2025-07-06,Savings - Bank,Credit,Bank Account
+919,4994.99,2025-07-07,Groceries,Debit,Digital Wallet
+920,949.24,2025-07-08,Utilities - Electricity,Debit,Bank Account
+921,2391.64,2025-07-09,Utilities - Electricity,Credit,Digital Wallet
+922,4146.63,2025-07-10,Savings - Bank,Debit,Bank Account
+923,3461.07,2025-07-11,Rent,Debit,Digital Wallet
+924,4913.09,2025-07-12,Utilities,Debit,Credit Card
+925,3577.07,2025-07-13,Loan - Credit Card,Debit,Credit Card
+926,2958.15,2025-07-14,Utilities - Electricity,Credit,Credit Card
+927,2555.96,2025-07-15,Investment - Mutual Funds,Debit,Digital Wallet
+928,4942.41,2025-07-16,Dining,Credit,Credit Card
+929,4105.41,2025-07-17,Travel,Credit,Credit Card
+930,3120.05,2025-07-18,Travel,Credit,Credit Card
+931,3943.2,2025-07-19,Rent,Credit,Digital Wallet
+932,2532.13,2025-07-20,Investment - Mutual Funds,Credit,Credit Card
+933,1421.3,2025-07-21,Groceries,Debit,Bank Account
+934,3592.74,2025-07-22,Savings - Bank,Credit,Credit Card
+935,2721.23,2025-07-23,Dining,Debit,Digital Wallet
+936,622.68,2025-07-24,Travel,Credit,Digital Wallet
+937,348.74,2025-07-25,Investment - Mutual Funds,Debit,Bank Account
+938,1569.89,2025-07-26,Rent,Credit,Credit Card
+939,4727.04,2025-07-27,Loan - Credit Card,Credit,Digital Wallet
+940,1251.99,2025-07-28,Rent,Credit,Bank Account
+941,2883.56,2025-07-29,Utilities - Electricity,Credit,Digital Wallet
+942,208.39,2025-07-30,Investment - Mutual Funds,Credit,Digital Wallet
+943,421.93,2025-07-31,Travel,Debit,Credit Card
+944,4981.35,2025-08-01,Utilities - Electricity,Credit,Digital Wallet
+945,1183.51,2025-08-02,Investment - Mutual Funds,Debit,Bank Account
+946,3770.84,2025-08-03,Travel,Credit,Credit Card
+947,4026.91,2025-08-04,Investment - Mutual Funds,Credit,Credit Card
+948,2846.77,2025-08-05,Utilities,Debit,Credit Card
+949,3389.7,2025-08-06,Dining,Debit,Digital Wallet
+950,4779.7,2025-08-07,Dining,Debit,Bank Account
+951,722.45,2025-08-08,Dining,Credit,Bank Account
+952,751.88,2025-08-09,Travel,Credit,Digital Wallet
+953,3706.46,2025-08-10,Investment - Mutual Funds,Credit,Credit Card
+954,3822.51,2025-08-11,Utilities - Electricity,Credit,Credit Card
+955,1055.71,2025-08-12,Dining,Credit,Credit Card
+956,1582.27,2025-08-13,Investment - Mutual Funds,Debit,Digital Wallet
+957,4665.74,2025-08-14,Utilities,Credit,Bank Account
+958,849.9,2025-08-15,Utilities - Electricity,Debit,Digital Wallet
+959,1458.23,2025-08-16,Groceries,Debit,Credit Card
+960,1901.37,2025-08-17,Dining,Debit,Credit Card
+961,978.32,2025-08-18,Rent,Debit,Credit Card
+962,47.44,2025-08-19,Loan - Credit Card,Credit,Credit Card
+963,241.91,2025-08-20,Investment - Mutual Funds,Credit,Digital Wallet
+964,4126.08,2025-08-21,Investment - Mutual Funds,Credit,Bank Account
+965,1878.6,2025-08-22,Loan - Credit Card,Debit,Digital Wallet
+966,4929.5,2025-08-23,Rent,Credit,Digital Wallet
+967,2806.12,2025-08-24,Travel,Debit,Digital Wallet
+968,2619.67,2025-08-25,Dining,Credit,Credit Card
+969,2445.42,2025-08-26,Loan - Credit Card,Credit,Credit Card
+970,3384.57,2025-08-27,Loan - Credit Card,Credit,Credit Card
+971,2109.68,2025-08-28,Groceries,Credit,Digital Wallet
+972,2740.41,2025-08-29,Dining,Credit,Bank Account
+973,1826.01,2025-08-30,Utilities,Debit,Digital Wallet
+974,2324.97,2025-08-31,Travel,Debit,Digital Wallet
+975,2011.98,2025-09-01,Utilities,Debit,Bank Account
+976,1070.8,2025-09-02,Groceries,Debit,Digital Wallet
+977,2422.66,2025-09-03,Savings - Bank,Debit,Bank Account
+978,4074.03,2025-09-04,Groceries,Debit,Bank Account
+979,4376.39,2025-09-05,Groceries,Credit,Credit Card
+980,1886.03,2025-09-06,Savings - Bank,Debit,Bank Account
+981,126.5,2025-09-07,Dining,Credit,Credit Card
+982,3694.29,2025-09-08,Rent,Debit,Bank Account
+983,4334.93,2025-09-09,Investment - Mutual Funds,Debit,Digital Wallet
+984,609.28,2025-09-10,Utilities - Electricity,Debit,Credit Card
+985,219.46,2025-09-11,Savings - Bank,Debit,Credit Card
+986,2317.85,2025-09-12,Groceries,Debit,Bank Account
+987,137.76,2025-09-13,Savings - Bank,Debit,Digital Wallet
+988,3318.39,2025-09-14,Utilities,Debit,Credit Card
+989,2889.15,2025-09-15,Loan - Credit Card,Debit,Credit Card
+990,3799.08,2025-09-16,Utilities,Credit,Digital Wallet
+991,401.42,2025-09-17,Dining,Credit,Credit Card
+992,3903.94,2025-09-18,Utilities,Debit,Digital Wallet
+993,3045.05,2025-09-19,Savings - Bank,Credit,Bank Account
+994,2552.87,2025-09-20,Savings - Bank,Debit,Bank Account
+995,4668.36,2025-09-21,Loan - Credit Card,Credit,Bank Account
+996,500.66,2025-09-22,Rent,Credit,Credit Card
+997,4598.32,2025-09-23,Dining,Credit,Digital Wallet
+998,1653.28,2025-09-24,Utilities,Debit,Credit Card
+999,1741.16,2025-09-25,Travel,Credit,Credit Card
+1000,4908.84,2025-09-26,Savings - Bank,Credit,Credit Card
